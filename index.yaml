@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  charttest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-01-14T07:12:06.172164354Z"
+    description: A Helm chart for Kubernetes
+    digest: ff1d36e25592db2f062bb7812c7ca8c93d75c5f6500c10e38b0c6193602191ee
+    name: charttest
+    type: application
+    urls:
+    - https://github.com/Crow-0818/helm-charts/releases/download/charttest-0.1.0/charttest-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-14T07:12:06.172175675Z"
